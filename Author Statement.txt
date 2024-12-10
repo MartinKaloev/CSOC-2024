@@ -1,9 +1,13 @@
 Author Statement
 
-The work on this paper and the supporting code was carried out from 2023 until late 2024, during which I served as the author and corresponding author. I conceptualized the experiments, developed the mathematical formulations, wrote the software, conducted the experiments, collected and organized the results, and derived the conclusions. I also prepared and presented the findings in 3D infographics, ensuring the replicability of the experiments by creating appropriate code. Additionally, managed communication with the journal and drafted the manuscript.
+The work on this paper and the supporting code was carried out from 2023 until late 2024, during which I served as the author and corresponding author. 
+I conceptualized the experiments, developed the mathematical formulations, wrote the software, conducted the experiments, collected and organized the results, and derived the conclusions. 
+I also prepared and presented the findings in 3D infographics, ensuring the replicability of the experiments by creating appropriate code. Additionally, managed communication with the journal and drafted the manuscript.
 
 I retain authorship of this paper and the supporting code.
 
-In 2024, I worked as an independent scientist without financial support from any institution. My contributions were driven by a commitment to ethical integrity, and I received no payment for my work. As such, I will not entertain requests for bureaucratic documentation or tax-related notes regarding unpaid contributions.
+In 2024, I worked as an independent scientist without financial support from any institution. 
+My contributions were driven by a commitment to ethical integrity, and I received no payment for my work. 
+As such, I will not entertain requests for bureaucratic documentation or tax-related notes regarding unpaid contributions.
 
 
